@@ -3,14 +3,17 @@ info:
   title: CDS Curbs
   version: '1.0'
   summary: 'The Curbs API is a standard way for cities to digitally publish curb locations and regulations, which can be shared with the public and with companies using curb space. It defines curb policies, curb zones, spaces in zones, and areas around curbs, and is used by Events and Metrics.'
-  description: 'The Curbs API is a REST API allowing cities to specify areas of interest along the curb along with the rules for using them: who is allowed to park, load, unload, pick up, drop off, etc., for how long, for what price (if any), at what times, and on which days. Locations defined in the Curbs API can be connected to event and metrics data, and can be shared with companies and the public, for purposes such as routing, finding legal parking, loading, and pick-up/drop-off spots, or analyzing curb utilization over time.'
+  description: |-
+    The Curbs API is a REST API allowing cities to specify areas of interest along the curb along with the rules for using them: who is allowed to park, load, unload, pick up, drop off, etc., for how long, for what price (if any), at what times, and on which days. Locations defined in the Curbs API can be connected to event and metrics data, and can be shared with companies and the public, for purposes such as routing, finding legal parking, loading, and pick-up/drop-off spots, or analyzing curb utilization over time.
+
+    Documentation notes: This documentation is being hosted within GitHub [here](https://github.com/michael-danko-passport/github-test-curb-data-specification/tree/feature-openapi).
   contact:
     url: 'https://github.com/openmobilityfoundation/curb-data-specification/tree/main/curbs'
     name: Open Mobility Foundation
     email: info@openmobilityfoundation.org
-  license: 
+  license:
     name: Creative Commons Attribution 4.0 International Public License
-    url: http://www.apache.org/licenses/LICENSE-2.0.htmlhttps://github.com/openmobilityfoundation/curb-data-specification/blob/0706316a7bfb0d6b5104c75608d8f66cb8101fe7/LICENCE
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.htmlhttps://github.com/openmobilityfoundation/curb-data-specification/blob/0706316a7bfb0d6b5104c75608d8f66cb8101fe7/LICENCE'
 servers:
   - description: ''
     url: 'http://localhost:4000/curbs'
