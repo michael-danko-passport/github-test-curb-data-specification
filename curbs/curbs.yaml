@@ -6,7 +6,7 @@ info:
   description: |-
     The Curbs API is a REST API allowing cities to specify areas of interest along the curb along with the rules for using them: who is allowed to park, load, unload, pick up, drop off, etc., for how long, for what price (if any), at what times, and on which days. Locations defined in the Curbs API can be connected to event and metrics data, and can be shared with companies and the public, for purposes such as routing, finding legal parking, loading, and pick-up/drop-off spots, or analyzing curb utilization over time.
 
-    Documentation notes: This documentation is being hosted within GitHub [here](https://github.com/michael-danko-passport/github-test-curb-data-specification/tree/feature-openapi).
+    Documentation notes: This documentation is being hosted within GitHub [here](https://github.com/michael-danko-passport/github-test-curb-data-specification/tree/feature-openapi). Changes to this repo/branch will be automatically applied to the Stoplight hosted site for viewing the spec.
   contact:
     url: 'https://github.com/openmobilityfoundation/curb-data-specification/tree/main/curbs'
     name: Open Mobility Foundation
